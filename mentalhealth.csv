@@ -4,4 +4,14 @@ What is your CGPA?,Do you have Depression?,Do you have Anxiety?,Do you have Pani
 2.50 - 2.99,Yes,No,No
 3.50 - 4.00,No,Yes,Yes
 3.00 - 3.49,Yes,Yes,Yes
+3.00 - 3.49,Yes,No,Yes
+3.00 - 3.49,No,Yes,No
+3.00 - 3.49,Yes,Yes,Yes
+3.00 - 3.49,Yes,No,No
+3.00 - 3.49,No,No,No
+3.50 - 4.00,No,No,Yes
+3.50 - 4.00,Yes,No,Yes
+3.50 - 4.00,No,Yes,No
+2.50 - 2.99,No,No,No
+3.50 - 4.00,No,Yes,Yes
 
